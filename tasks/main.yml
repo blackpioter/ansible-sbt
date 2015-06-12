@@ -3,7 +3,7 @@
   tags: ['sbt', 'packages']
   sudo: 'yes'
   apt_repository:
-    repo="deb http://archive.canonical.com/ubuntu hardy partner"
+    repo="deb http://dl.bintray.com/sbt/debian /"
     state=present
 
 - name: 'Install SBT'
