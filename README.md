@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/quarcu/ansible-sbt.svg?branch=master)](https://travis-ci.org/quarcu/ansible-sbt)
+
 # SBT role for Ansible
 
 This Ansible role installs SBT.
