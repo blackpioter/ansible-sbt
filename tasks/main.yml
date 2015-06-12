@@ -12,5 +12,6 @@
   apt: >
     pkg={{ item }}
     update_cache=yes
+    force=yes
   with_items:
     - 'sbt'
