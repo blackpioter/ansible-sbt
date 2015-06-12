@@ -1,0 +1,14 @@
+---
+galaxy_info:
+  author: 'Piotr Szwarc'
+  description: 'Ansible role for installing SBT.'
+  company: ''
+  license: BSD
+  min_ansible_version: 1.6
+  platforms:
+    - name: 'Ubuntu'
+      versions:
+        - 'trusty'
+  categories:
+    - 'development'
+dependencies: []
