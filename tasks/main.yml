@@ -2,7 +2,7 @@
 - name: 'Add SBT Repo'
   tags: ['sbt', 'packages']
   sudo: 'yes'
-  apt_repository:
+  apt_repository: >
     repo="deb http://dl.bintray.com/sbt/debian /"
     state=present
 
